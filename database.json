@@ -1,0 +1,846 @@
+[
+  {
+    "id": "user1",
+    "email": "intern@demo.com",
+    "password": "demo123",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "1",
+      "name": "Priya Sharma",
+      "college": "Anna University - CEG Campus",
+      "email": "intern@demo.com",
+      "totalDays": 45,
+      "createdDate": "2026-01-15",
+      "department": "Computer Science",
+      "supervisor": "Dr. Ramanathan",
+      "periods": {
+        "1": {
+          "target": "a, b, c",
+          "days": {
+            "1": {
+              "progress": "Completed React tutorial, built first component",
+              "file": null,
+              "comment": "Good start! Focus on hooks next."
+            },
+            "2": {
+              "progress": "Implemented useState and useEffect hooks",
+              "file": null,
+              "comment": "Excellent progress!"
+            },
+            "3": {
+              "progress": "Built a todo app with local storage",
+              "file": null,
+              "comment": ""
+            },
+            "7": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "2": {
+          "target": "Build a dashboard with data visualization",
+          "days": {
+            "8": {
+              "progress": "Set up project structure and routing",
+              "file": null,
+              "comment": "Clean architecture!"
+            },
+            "9": {
+              "progress": "Integrated Chart.js for data visualization",
+              "file": null,
+              "comment": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "user2",
+    "email": "teacher@demo.com",
+    "password": "demo123",
+    "type": "teacher",
+    "name": "Dr. Ramanathan"
+  },
+  {
+    "id": "user1774672719071",
+    "email": "a9@h",
+    "password": "12345678",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1774672726343",
+      "name": "joshika",
+      "college": "ceg",
+      "email": "jo@gmail",
+      "totalDays": 30,
+      "department": "cse",
+      "supervisor": "lavanya",
+      "createdDate": "2026-03-28",
+      "periods": {
+        "0": {
+          "projectTitle": "bg",
+          "summary": "bxs",
+          "files": [],
+          "comment": ""
+        },
+        "1": {
+          "target": "",
+          "days": {
+            "1": {
+              "progress": " jnbhvg",
+              "file": null,
+              "comment": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "user1774673398617",
+    "email": "testintern@test.com",
+    "password": "test123",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1774673414176",
+      "name": "Test Intern",
+      "college": "Anna University",
+      "email": "testintern@test.com",
+      "totalDays": 30,
+      "department": "Computer Science",
+      "supervisor": "Dr. Smith",
+      "createdDate": "2026-03-28",
+      "periods": {
+        "0": {
+          "projectTitle": "Test Project",
+          "summary": "This is a test project for verification.",
+          "files": [],
+          "comment": ""
+        },
+        "1": {
+          "target": "",
+          "days": {
+            "1": {
+              "progress": "Completed initial setup and verified the application.",
+              "file": null,
+              "comment": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "user1774889864790",
+    "email": "a@b",
+    "password": "joshika",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1774889873183",
+      "name": "joshikaaa",
+      "college": "ceg",
+      "email": "a@b",
+      "totalDays": 30,
+      "department": "scw",
+      "supervisor": "f",
+      "createdDate": "2026-03-30",
+      "periods": {
+        "0": {
+          "projectTitle": "njbh",
+          "summary": "nkbh",
+          "files": [],
+          "comment": ""
+        },
+        "1": {
+          "target": "njbh b",
+          "days": {
+            "1": {
+              "progress": "nbj h",
+              "file": null,
+              "comment": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "user1775206058626",
+    "email": "jo@gmail",
+    "password": "joshika",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1775206082476",
+      "name": "joshika",
+      "college": "ceg",
+      "email": "jo@gmail.com",
+      "totalDays": 30,
+      "department": "cse",
+      "supervisor": "Vinitha",
+      "createdDate": "2026-04-03",
+      "periods": {
+        "0": {
+          "projectTitle": "React Internship Tracker",
+          "summary": "This project aims to build a responsive web dashboard for tracking student internship progress on a daily and weekly basis. It will include user authentication, NLP-based similarity checking for targets vs progress, and an automated rollover feature for incomplete tasks.",
+          "files": [],
+          "comment": "good one"
+        },
+        "1": {
+          "target": "Set up the repository, build the login page, configure the database connection, write the API endpoints, and design the user profile",
+          "days": {
+            "1": {
+              "progress": "Set up the repository and initialized the basic file structure.\n\n",
+              "file": null,
+              "comment": ""
+            },
+            "2": {
+              "progress": "Worked on building the login page UI using React.",
+              "file": null,
+              "comment": ""
+            },
+            "3": {
+              "progress": "Finished the login authentication logic and tested it.",
+              "file": null,
+              "comment": ""
+            },
+            "4": {
+              "progress": "Started configuring the database connection for MongoDB.\n\n",
+              "file": null,
+              "comment": ""
+            },
+            "5": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            },
+            "6": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            },
+            "7": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "2": {
+          "target": "",
+          "days": {
+            "8": {
+              "progress": "dfd",
+              "file": null,
+              "comment": ""
+            },
+            "9": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            },
+            "10": {
+              "progress": "sd",
+              "file": null,
+              "comment": ""
+            },
+            "11": {
+              "progress": "jhgfdsaeWEFCGUHOIU8Y67EY4WTARSZFXDGFCGHVHJKJ",
+              "file": null,
+              "comment": ""
+            },
+            "12": {
+              "progress": "THE IS WHAT I HAVE COMPLETED ONE STUFF",
+              "file": null,
+              "comment": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "user1775206241251",
+    "email": "tr@gmail.com",
+    "password": "teacher",
+    "type": "teacher",
+    "hasProfile": false,
+    "name": "Vinitha"
+  },
+  {
+    "id": "user1775559198344",
+    "email": "j@l",
+    "password": "joshika",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1775559214028",
+      "name": "jo",
+      "college": "ceg",
+      "email": "j@l",
+      "totalDays": 30,
+      "department": "cse",
+      "supervisor": "m",
+      "createdDate": "2026-04-07",
+      "periods": {
+        "0": {
+          "projectTitle": "college Knowledge Vault",
+          "summary": "A MERN stack web application that allows students to upload, access, and manage study materials. It includes user authentication, file uploads, search functionality, and role-based access for students and admins.",
+          "files": [],
+          "comment": ""
+        },
+        "1": {
+          "target": "Setup project structure (frontend + backend)\nDesign database schema (users, files, roles)\nImplement user registration API\nImplement login & authentication (JWT)\nCreate React UI for login/register\nBuild file upload feature\nTest integration and fix bugs",
+          "days": {
+            "1": {
+              "progress": "Initialized React app and Express server, installed dependencies",
+              "file": null,
+              "comment": ""
+            },
+            "2": {
+              "progress": "Designed MongoDB schema for users and files",
+              "file": null,
+              "comment": ""
+            },
+            "3": {
+              "progress": " Setup project structure (frontend + backend) - Roles)",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "2": {
+          "target": "Rolled over from Week 1:\n- Setup project structure (frontend + backend)\n- Roles)\n- Implement user registration API\n- Implement login & authentication (JWT)\n- Build file upload feature\n- Test integration\n- Fix bugs\n\nNew Targets:\n- ",
+          "days": {
+            "8": {
+              "progress": "Setup project structure (frontend + backend) - Roles) -",
+              "file": null,
+              "comment": ""
+            },
+            "9": {
+              "progress": "Implement user registration API -",
+              "file": null,
+              "comment": ""
+            },
+            "10": {
+              "progress": "Implement login & authentication (JWT)",
+              "file": null,
+              "comment": ""
+            },
+            "11": {
+              "progress": "Build file upload feature -",
+              "file": null,
+              "comment": ""
+            },
+            "12": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            },
+            "13": {
+              "progress": "Fix bugs New Targets: -",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "3": {
+          "target": "Rolled over from Week 2:\n- Rolled over from Week 1:\n- - Test integration\n- - Fix bugs\n- New Targets:\n\nNew Targets:\n- "
+        }
+      }
+    }
+  },
+  {
+    "id": "user1775562144548",
+    "email": "a@bb",
+    "password": "joshika",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1775562174537",
+      "name": "ji",
+      "college": "frf",
+      "email": "gavg@x",
+      "totalDays": 30,
+      "department": "eg",
+      "supervisor": "gr",
+      "createdDate": "2026-04-07",
+      "periods": {
+        "0": {
+          "projectTitle": "College Knowledge Vault",
+          "summary": "A MERN stack web application that allows students to upload, access, and manage study materials. It includes user authentication, file uploads, search functionality, and role-based access for students and admins.",
+          "files": [],
+          "comment": ""
+        },
+        "1": {
+          "target": "Setup project structure (frontend + backend)\nDesign database schema (users, files, roles)\nImplement user registration API\nImplement login & authentication (JWT)\nCreate React UI for login/register\nBuild file upload feature\nTest integration and fix bugs",
+          "days": {
+            "1": {
+              "progress": "Setup project structure (frontend + backend)",
+              "file": null,
+              "comment": ""
+            },
+            "2": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            },
+            "3": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            },
+            "4": {
+              "progress": "Implement user registration API\n",
+              "file": null,
+              "comment": ""
+            },
+            "5": {
+              "progress": "Build file upload feature Test integration and fix bugs",
+              "file": null,
+              "comment": ""
+            },
+            "6": {
+              "progress": "Create React UI for login/register",
+              "file": null,
+              "comment": ""
+            },
+            "7": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "2": {
+          "target": "Rolled over from Week 1:\n- Design database schema (users\n- Files\n- Roles)\n\nNew Targets:\n- "
+        },
+        "3": {
+          "target": "Setup project structure (frontend + backend)\nDesign database schema (users, files, roles)\nImplement user registration API\nImplement login & authentication (JWT),\nCreate React UI for login/register,\nBuild file upload feature,\nTest integration and fix bugs,",
+          "days": {
+            "15": {
+              "progress": "Setup project structure (frontend + backend)",
+              "file": null,
+              "comment": ""
+            },
+            "16": {
+              "progress": "design database schema (users, files, roles)",
+              "file": null,
+              "comment": ""
+            },
+            "17": {
+              "progress": "Implement user registration API",
+              "file": null,
+              "comment": ""
+            },
+            "18": {
+              "progress": "Test integration and fix bugs,",
+              "file": null,
+              "comment": ""
+            },
+            "19": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            },
+            "20": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            },
+            "21": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "4": {
+          "target": "Rolled over from Week 3:\n- Implement login & authentication (JWT)\n- Create React UI for login/register\n- Build file upload feature\n\nNew Targets:\n- "
+        }
+      }
+    }
+  },
+  {
+    "id": "user1775564886875",
+    "email": "jai@j",
+    "password": "joshika",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1775564897527",
+      "name": "jai",
+      "college": "frf",
+      "email": "j@j",
+      "totalDays": 30,
+      "department": "eg",
+      "supervisor": "gr",
+      "createdDate": "2026-04-07",
+      "periods": {
+        "1": {
+          "target": "Rolled over from Week 1:\nreact java python",
+          "days": {
+            "1": {
+              "progress": "a",
+              "file": null,
+              "comment": ""
+            },
+            "2": {
+              "progress": "react",
+              "file": null,
+              "comment": ""
+            },
+            "7": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "2": {
+          "target": "Rolled over from Week 1:\nreact java python",
+          "days": {
+            "14": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "3": {
+          "target": "Rolled over from Week 2:\n- Rolled over from Week 1:\n- React java python\n",
+          "days": {
+            "15": {
+              "progress": "npm;\nrun;\ndev;",
+              "file": null,
+              "comment": ""
+            },
+            "16": {
+              "progress": "npm",
+              "file": null,
+              "comment": ""
+            },
+            "21": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "4": {
+          "target": "Rolled over from Week 3:\n- Rolled over from Week 2:\n- - Rolled over from Week 1:\n- - React java python\n",
+          "days": {
+            "22": {
+              "progress": "React java python",
+              "file": null,
+              "comment": ""
+            },
+            "28": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "5": {
+          "target": "Rolled over from Week 4:\n- Rolled over from Week 3:\n- - Rolled over from Week 2:\n- - - Rolled over from Week 1:\n"
+        }
+      }
+    }
+  },
+  {
+    "id": "user1775565169028",
+    "email": "k@k",
+    "password": "joshika",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1775565177296",
+      "name": "jai",
+      "college": "frf",
+      "email": "h@k",
+      "totalDays": 30,
+      "department": "eg",
+      "supervisor": "gr",
+      "createdDate": "2026-04-07",
+      "periods": {
+        "1": {
+          "target": "npm;\nrun;\ndev;\n",
+          "days": {
+            "1": {
+              "progress": "npm",
+              "file": null,
+              "comment": ""
+            },
+            "7": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "2": {
+          "target": "Rolled over from Week 1:\n- Run is down;\n- Dev;\n",
+          "days": {
+            "8": {
+              "progress": "run ",
+              "file": null,
+              "comment": ""
+            },
+            "14": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "3": {
+          "target": "Rolled over from Week 2:\n- Rolled over from Week 1:\n- - Run is down\n- - Dev\n",
+          "days": {
+            "15": {
+              "progress": "Run is down",
+              "file": null,
+              "comment": ""
+            },
+            "16": {
+              "progress": "dev",
+              "file": null,
+              "comment": ""
+            },
+            "21": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "4": {
+          "target": "Rolled over from Week 3:\n- Rolled over from Week 2:\n- - Rolled over from Week 1:\n",
+          "days": {
+            "28": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "5": {
+          "target": "Rolled over from Week 4:\n- \n- Rolled over from Week 2:\n- Rolled over from Week 1:\n"
+        }
+      }
+    }
+  },
+  {
+    "id": "user1775565357523",
+    "email": "s@f",
+    "password": "jaisonj",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1775565368658",
+      "name": "jai",
+      "college": "frf",
+      "email": "ja@d",
+      "totalDays": 30,
+      "department": "eg",
+      "supervisor": "gr",
+      "createdDate": "2026-04-07",
+      "periods": {
+        "1": {
+          "target": "run dev;\ndek;",
+          "days": {
+            "1": {
+              "progress": "run de",
+              "file": null,
+              "comment": ""
+            },
+            "7": {
+              "progress": "-\n",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "2": {
+          "target": "Rolled over from Week 1:\n- Dek\n",
+          "days": {
+            "8": {
+              "progress": "dk",
+              "file": null,
+              "comment": ""
+            },
+            "14": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "3": {
+          "target": "Rolled over from Week 2:\n- \n- Dek\n",
+          "days": {
+            "15": {
+              "progress": "Dek is completed",
+              "file": null,
+              "comment": ""
+            },
+            "21": {
+              "progress": "-",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "4": {
+          "target": "Rolled over from Week 3:\n- \n",
+          "days": {
+            "22": {
+              "progress": "d",
+              "file": null,
+              "comment": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "user1775565917636",
+    "email": "j@j",
+    "password": "joshika",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1775566098438",
+      "name": "ed",
+      "college": "de",
+      "email": "edcc@x",
+      "totalDays": 30,
+      "department": "d",
+      "supervisor": "c",
+      "createdDate": "2026-04-07",
+      "periods": {
+        "0": {
+          "projectTitle": "College Knowledge Vault",
+          "summary": "A MERN stack web application that allows students to upload, access, and manage study materials. It includes user authentication, file uploads, search functionality, and role-based access for students and admins.",
+          "files": [],
+          "comment": ""
+        },
+        "1": {
+          "target": "Setup project structure (frontend + backend)\nDesign database schema (users, files, roles)\nImplement user registration API\nImplement login & authentication (JWT)\nCreate React UI for login/register\nBuild file upload feature\nTest integration and fix bugs",
+          "days": {
+            "1": {
+              "progress": "Setup project structure (frontend + backend)",
+              "file": null,
+              "comment": ""
+            },
+            "2": {
+              "progress": "Design database schema (users, files, roles)",
+              "file": null,
+              "comment": ""
+            },
+            "3": {
+              "progress": "Implement user registration API",
+              "file": null,
+              "comment": ""
+            },
+            "5": {
+              "progress": "Create React UI for login/register",
+              "file": null,
+              "comment": ""
+            }
+          }
+        },
+        "2": {
+          "target": "Rolled over from Week 1:\n- Implement login & authentication (JWT)\n- Create React UI for login/register\n- Build file upload feature\n- Test integration\n- Fix bugs\n"
+        }
+      }
+    }
+  },
+  {
+    "id": "user1775567322909",
+    "email": "l@l",
+    "password": "joshika",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1775567331867",
+      "name": "c",
+      "college": "de",
+      "email": "j@f",
+      "totalDays": 30,
+      "department": "d",
+      "supervisor": "c",
+      "createdDate": "2026-04-07",
+      "periods": {
+        "1": {
+          "target": "etup project structure (frontend + backend);\nDesign database schema (users, files, roles);\nImplement user registration API;\nImplement login & authentication (JWT);\nCreate React UI for login/register;\nBuild file upload feature;\nTest integration and fix bugs;",
+          "days": {
+            "1": {
+              "progress": "etup project structure (frontend + backend",
+              "file": null,
+              "comment": ""
+            },
+            "2": {
+              "progress": "ign database schema (users, files, role",
+              "file": null,
+              "comment": ""
+            },
+            "3": {
+              "progress": "WT);",
+              "file": null,
+              "comment": ""
+            },
+            "4": {
+              "progress": "Implement user registration API;",
+              "file": null,
+              "comment": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "user1778497455230",
+    "email": "span.sskthivel@gmail.com",
+    "password": "123456",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1778497496308",
+      "name": "Sakthi",
+      "college": "ceg",
+      "email": "span.sakthivel@gmail.com",
+      "totalDays": 30,
+      "department": "CSE",
+      "supervisor": "",
+      "createdDate": "2026-05-11",
+      "periods": {}
+    }
+  },
+  {
+    "id": "user1778497564123",
+    "email": "span.sakthivel@gmail.com",
+    "password": "123456",
+    "type": "intern",
+    "hasProfile": true,
+    "internData": {
+      "id": "intern1778497584103",
+      "name": "sakthi",
+      "college": "ceg",
+      "email": "sakthi@1",
+      "totalDays": 30,
+      "department": "cse",
+      "supervisor": "priya",
+      "createdDate": "2026-05-11",
+      "periods": {}
+    }
+  }
+]
